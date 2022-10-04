@@ -1,2 +1,2 @@
-# deeplearning
-Random Code for Deep &amp; Machine Learning Training
+# Deeplearning
+Random Code for Deep & Machine Learning Training
